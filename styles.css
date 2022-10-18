@@ -98,3 +98,9 @@ input:valid ~ label{
 
     padding: 0.4em;
 }
+button:hover{
+    opacity: 0.8;
+}
+button:active{
+    opacity: 0.5;
+}
